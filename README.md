@@ -1,4 +1,6 @@
-## Fine-Tuned Mistral-7B (Qunatized) for seq2seq completion
+## English & German Writting Assistant 
+
+#### Fine-Tuned Mistral-7B (Qunatized) for seq2seq completion
 
 #### Fine-Tuned on:
   - xsum
